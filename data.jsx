@@ -62,9 +62,9 @@ const render = () => {
       <Music.Widget />
       <Mpd.Widget />
       <Weather.Widget />
-      <Battery.Widget />
-      <Mic.Widget />
       <Sound.Widget />
+      <Mic.Widget />
+      <Battery.Widget />
       <ViscosityVPN.Widget />
       <Wifi.Widget />
       <Keyboard.Widget />
